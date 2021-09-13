@@ -5,12 +5,15 @@
 I'm Ashish, a self taught **Data Analyst** and **Data Science** enthusiast from 🇮🇳 India. 
 
 ## 📃 About Me 
-* 🧐   Focused on **Data Science** and practicing it everyday.
-* 🎓   Bachelor of Technology in **Electronics and Communication Engineering**.
-* 📚   Reading more about Data Analytics, Stats and how the Data works.
-* ⛵   Encouraging people for open source collaborations.
 
-## 💡 Skills and Tools
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+* 🎓   Bachelor of Technology in **Electronics and Communication Engineering**.
+* 🧐   Focused on **Data Science** and practicing it everyday.
+* 📚   Reading more about Data Analytics, Stats and how the Data works.
+* 👯   I’m looking to collaborate on Projects,Tech Articles.
+
+## 💡 Skills and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualization
 
@@ -29,7 +32,9 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 ## 📚 Project & Case Studies
 + Click [HERE]() for the guide to my projects and case studies!
 
+
 ## 🌱 Currently Learning 
+
 
 <p align="center">
     <a href="https://github.com/ashishthapa14/github-readme-streak-stats">
@@ -52,7 +57,7 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 <br/>
 <br/>
 
-## Let's Connect :handshake:
+## Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <a href="https://www.linkedin.com/in/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122122-690edf12-c4cb-4693-910a-32769d1898a6.png" width="40"></a>|<a href="mailto:thapa.ashishkumar3@gmail.com"><img src="https://user-images.githubusercontent.com/81792940/133122113-ad00499c-ee51-4335-93ad-120c0feb3530.png" width="40"></a>|<a href="https://www.kaggle.com/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122119-b706a492-b963-4097-8001-4635bb05e371.png" width="40"></a>
 |--|--|--|
