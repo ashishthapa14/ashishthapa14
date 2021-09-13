@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/81792940/133103434-f68b1150-b3e9-4a2d-a783-1cf7fa2339dc.png)
 
-<h1> Hi Folks <img  src="https://user-images.githubusercontent.com/81792940/133122116-2b16f332-140e-4cb5-a8f7-88c10af1647f.gif"  width="30px"></h1>  
+<h1> Hi there <img  src="https://user-images.githubusercontent.com/81792940/133122116-2b16f332-140e-4cb5-a8f7-88c10af1647f.gif"  width="30px"></h1>  
  
 I'm Ashish, a self taught **Data Analyst** and **Data Science** enthusiast from 🇮🇳 India. 
 
