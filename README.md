@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/81792940/133103434-f68b1150-b3e9-4a2d-a783-1cf7fa2339dc.png)
 
-<h1> Hi Folks <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"></h1>  
+<h1> Hi Folks <img  src="https://user-images.githubusercontent.com/81792940/133122116-2b16f332-140e-4cb5-a8f7-88c10af1647f.gif"  width="30px"></h1>  
 
 [![Gmail Badge](https://img.shields.io/badge/thapa.ashishkumar3@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:thapa.ashishkumar3@gmail.com)  
 
@@ -23,13 +23,13 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/R.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Python" alt="Python" width="40px" src="https://user-images.githubusercontent.com/81792940/133122129-2e8c377d-7978-4184-8694-c616bc5bcff4.png" />|<img title="R" alt="R" width="40px" src="https://user-images.githubusercontent.com/81792940/133122133-dcee35e4-2164-43c3-8995-8d4b78374be9.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|
 
 **Tools**
 
-<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/MySQL.png">|<img title="Power BI" alt="Power BI" width="40px" src="https://s3.amazonaws.com/ohmyzsh/powerbi.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
+<img title="MySQL" alt="MySQL" width="40px" src="">|<img title="Power BI" alt="Power BI" width="40px" src="https://user-images.githubusercontent.com/81792940/133122127-06d1176d-4163-4349-8920-01efb2e962d3.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://user-images.githubusercontent.com/81792940/133122111-87901fa6-4c79-4985-8b19-ebebe0d20dc0.png">|<img title="Jupyter Notebook" alt="Jupyter" width="100px" src="https://user-images.githubusercontent.com/81792940/133121903-d8a33e7f-c6a6-41ea-9d86-66f49ecb1f79.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://user-images.githubusercontent.com/81792940/133122124-b1303582-fd4b-497a-ada7-b9786b4987b6.png">|<img title="Tableau" alt="Tableau" width="100px" src="https://user-images.githubusercontent.com/81792940/133122138-1e727162-e712-4890-9d64-4bf52b4dcdaf.png">
+|--|--|--|--|--|--|--|
 <br>
  
   
@@ -40,7 +40,7 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/ashishthapa14/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:thapa.ashishkumar3@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.kaggle.com/ashishthapa14/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122122-690edf12-c4cb-4693-910a-32769d1898a6.png" width="40"></a>|<a href="mailto:thapa.ashishkumar3@gmail.com"><img src="https://user-images.githubusercontent.com/81792940/133122113-ad00499c-ee51-4335-93ad-120c0feb3530.png" width="40"></a>|<a href="https://www.kaggle.com/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122119-b706a492-b963-4097-8001-4635bb05e371.png" width="40"></a>
 |--|--|--|
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=ashishthapa14&theme=react-dark)
