@@ -1,14 +1,7 @@
 ![](https://user-images.githubusercontent.com/81792940/133103434-f68b1150-b3e9-4a2d-a783-1cf7fa2339dc.png)
 
 <h1> Hi Folks <img  src="https://user-images.githubusercontent.com/81792940/133122116-2b16f332-140e-4cb5-a8f7-88c10af1647f.gif"  width="30px"></h1>  
-
-[![Gmail Badge](https://img.shields.io/badge/thapa.ashishkumar3@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:thapa.ashishkumar3@gmail.com)  
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ashishthapa14.ashishthapa14)  
-
-[![Github](https://img.shields.io/github/followers/:ashishthapa14?label=Follow&style=social)](https://github.com/ashishthapa14)  
-
-
+ 
 I'm Ashish, a self taught **Data Analyst** and **Data Science** enthusiast from 🇮🇳 India. 
 
 ## 📃 About Me 
@@ -64,6 +57,11 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 <a href="https://www.linkedin.com/in/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122122-690edf12-c4cb-4693-910a-32769d1898a6.png" width="40"></a>|<a href="mailto:thapa.ashishkumar3@gmail.com"><img src="https://user-images.githubusercontent.com/81792940/133122113-ad00499c-ee51-4335-93ad-120c0feb3530.png" width="40"></a>|<a href="https://www.kaggle.com/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122119-b706a492-b963-4097-8001-4635bb05e371.png" width="40"></a>
 |--|--|--|
 
+## ❤ Views and Followers
+<a href="https://github.com/ashishthapa14/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ashishthapa14">
+</a>
+<a href="https://github.com/ashishthapa14?tab=followers"><img src="https://img.shields.io/github/followers/ashishthapa14?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
