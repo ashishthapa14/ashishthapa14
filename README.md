@@ -6,7 +6,7 @@ I'm Ashish, a self taught **Data Analyst** and **Data Science** enthusiast from 
 
 ## 📃 About Me 
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 🎓   Bachelor of Technology in **Electronics and Communication Engineering**.
 * 🧐   Focused on **Data Science** and practicing it everyday.
