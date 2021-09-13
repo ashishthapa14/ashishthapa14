@@ -1,9 +1,13 @@
 ![](#banner)
 
-<h1> Hi Folks <img  src="(https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)"  width="30px"></h1>
-[![Gmail Badge](https://img.shields.io/badge/thapa.ashishkumar3@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:thapa.ashishkumar3@gmail.com)
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ashishthapa14.ashishthapa14)
-[![Github](https://img.shields.io/github/followers/ashishthapa14?label=Follow&style=social)](https://github.com/ashishthapa14)
+<h1> Hi Folks <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"></h1>  
+
+[![Gmail Badge](https://img.shields.io/badge/thapa.ashishkumar3@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:thapa.ashishkumar3@gmail.com)  
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=ashishthapa14.ashishthapa14)  
+
+[![Github](https://img.shields.io/github/followers/:ashishthapa14?label=Follow&style=social)](https://github.com/ashishthapa14)  
+
 
 I'm Ashish, a self taught **Data Analyst** and **Data Science** enthusiast from 🇮🇳 India. 
 
