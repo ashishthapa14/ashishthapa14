@@ -24,8 +24,8 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 
 **Tools**
 
-<img title="MySQL" alt="MySQL" width="100px" src="https://user-images.githubusercontent.com/81792940/133124854-c1e6b704-c93f-413d-97ff-047acfb4f042.png">|<img title="Power BI" alt="Power BI" width="40px" src="https://user-images.githubusercontent.com/81792940/133122127-06d1176d-4163-4349-8920-01efb2e962d3.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://user-images.githubusercontent.com/81792940/133122111-87901fa6-4c79-4985-8b19-ebebe0d20dc0.png">|<img title="Jupyter Notebook" alt="Jupyter" width="100px" src="https://user-images.githubusercontent.com/81792940/133121903-d8a33e7f-c6a6-41ea-9d86-66f49ecb1f79.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://user-images.githubusercontent.com/81792940/133122124-b1303582-fd4b-497a-ada7-b9786b4987b6.png">|<img title="Tableau" alt="Tableau" width="100px" src="https://user-images.githubusercontent.com/81792940/133122138-1e727162-e712-4890-9d64-4bf52b4dcdaf.png">
-|--|--|--|--|--|--|--|
+<img title="MySQL" alt="MySQL" width="100px" src="https://user-images.githubusercontent.com/81792940/133124854-c1e6b704-c93f-413d-97ff-047acfb4f042.png">|<img title="Power BI" alt="Power BI" width="40px" src="https://user-images.githubusercontent.com/81792940/133122127-06d1176d-4163-4349-8920-01efb2e962d3.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://user-images.githubusercontent.com/81792940/133122111-87901fa6-4c79-4985-8b19-ebebe0d20dc0.png">|<img title="Jupyter Notebook" alt="Jupyter" width="100px" src="https://user-images.githubusercontent.com/81792940/133121903-d8a33e7f-c6a6-41ea-9d86-66f49ecb1f79.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://user-images.githubusercontent.com/81792940/133122124-b1303582-fd4b-497a-ada7-b9786b4987b6.png">|<img title="Tableau" alt="Tableau" width="100px" src="https://user-images.githubusercontent.com/81792940/133122138-1e727162-e712-4890-9d64-4bf52b4dcdaf.png">|<img title="PostgreSQL" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+|--|--|--|--|--|--|--|--|
 <br>
  
   
@@ -34,6 +34,8 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 
 
 ## 🌱 Currently Learning 
+
++ [SQL Window Function](https://www.youtube.com/playlist?list=PLgR-BOYibnN0QqIPFbMlS01bw8x9g07Ll)
 
 
 <p align="center">
