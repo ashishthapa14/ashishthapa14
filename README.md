@@ -19,7 +19,7 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://user-images.githubusercontent.com/81792940/133122129-2e8c377d-7978-4184-8694-c616bc5bcff4.png" />|<img title="R" alt="R" width="40px" src="https://user-images.githubusercontent.com/81792940/133122133-dcee35e4-2164-43c3-8995-8d4b78374be9.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Python" alt="Python" width="40px" src="https://user-images.githubusercontent.com/81792940/133122129-2e8c377d-7978-4184-8694-c616bc5bcff4.png" />|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|
 
 **Tools**
