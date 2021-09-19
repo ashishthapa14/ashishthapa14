@@ -42,6 +42,7 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
 ## 🌱 Currently Learning 
 
 + [SQL Window Function](https://www.youtube.com/playlist?list=PLgR-BOYibnN0QqIPFbMlS01bw8x9g07Ll)
++ [Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics)
 
 
 <p align="center">
