@@ -36,7 +36,7 @@ Skills: Data Analytics, Data Cleaning, Exploratory Data Analysis, Data Visualiza
  
   
 ## 📚 Project & Case Studies
-+ Click [HERE]() for the guide to my projects and case studies!
++ Click [HERE](https://github.com/ashishthapa14/My_Portfolio_Guide) for the guide to my projects and case studies!
 
 
 ## 🌱 Currently Learning 
