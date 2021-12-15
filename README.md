@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/81792940/133103434-f68b1150-b3e9-4a2d-a783-1cf7fa2339dc.png)
+![_LinkedIn Banner](https://user-images.githubusercontent.com/81792940/146126818-8878f6cf-977c-48d0-af73-6af01938a0a1.png)
 
 <h1> Hi there <img  src="https://user-images.githubusercontent.com/81792940/133122116-2b16f332-140e-4cb5-a8f7-88c10af1647f.gif"  width="30px"></h1>  
  
