@@ -92,21 +92,10 @@ Agile (Scrum, Kanban), DevOps, Test Automation, Infrastructure as Code (IaC)
 
 ---
 
-## 📈 Contribution Streak
-
-<p align="center">
-  <a href="https://github.com/ashishthapa14/github-readme-streak-stats">
-    <img title="🔥 Streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ashishthapa14&theme=dark&hide_border=false" width="500">
-  </a>
-</p>
-
----
-
 ## 🤝 Let’s Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <a href="https://www.linkedin.com/in/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122122-690edf12-c4cb-4693-910a-32769d1898a6.png" width="40"></a>
 <a href="mailto:thapa.ashishkumar3@gmail.com"><img src="https://user-images.githubusercontent.com/81792940/133122113-ad00499c-ee51-4335-93ad-120c0feb3530.png" width="40"></a>
-<a href="https://www.kaggle.com/ashishthapa14/"><img src="https://user-images.githubusercontent.com/81792940/133122119-b706a492-b963-4097-8001-4635bb05e371.png" width="40"></a>
 
 ---
 
